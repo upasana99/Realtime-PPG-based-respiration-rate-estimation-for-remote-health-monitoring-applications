@@ -1,0 +1,2 @@
+# Realtime-PPG-based-respiration-rate-estimation-for-remote-health-monitoring-applications
+Design and validation of an unobtrusive and easy-to-use wearable de-vice to measure RR is presented.  The RIAV from reflectance type PPG signals is extracted using IMS algorithm.  Adaptive thresholding algorithm and FFT analysis is employed to ex-tract RR from RIAV signature.  The proposed approach achieves a RR accuracy of 1 bpm deviation against the ground truth.
